@@ -5,3 +5,5 @@ server pt server0 168.90.0.14
 pc pt pc2 210.3.14.11
 server pt server1 210.3.14.12
 srver pt server2 210.3.14.13
+pc pt pc3 168.90.0.14
+pc pt pc4 210.3.14.14
